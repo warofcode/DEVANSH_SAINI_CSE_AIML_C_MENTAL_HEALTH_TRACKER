@@ -1,6 +1,12 @@
 # DEVANSH_SAINI_CSE_AIML_C_MENTAL_HEALTH_TRACKER
 # 🧠 Mental Health Tracker: AI-Driven Early Detection System
 
+### video presentation
+https://drive.google.com/file/d/1eFNwGgCZYVpT2fab8jpGCHrhFyg1IBLi/view?usp=drivesdk
+
+### project report 
+https://drive.google.com/file/d/1eGuUfAR1q4u_T0gk-0SDeL6KgyeTVzUb/view?usp=drivesdk
+
 A powerful AI-based platform for early detection of mental health symptoms using **Natural Language Processing (NLP)** and **Audio Analysis**. This system empowers users to understand and monitor their mental health through journaling, speech input, and personalized feedback — helping bridge the gap between self-care and professional support.
 
 ---
